@@ -1,0 +1,17 @@
+{
+  "name": "nxns",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "*",
+    "@rails/activestorage": "*",
+    "@rails/ujs": "*",
+    "@rails/webpacker": "^4.0.7",
+    "ts-loader": "^6.2.1",
+    "turbolinks": "*",
+    "typescript": "^3.6.4"
+  },
+  "version": "*",
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  }
+}
